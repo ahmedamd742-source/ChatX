@@ -1,2 +1,0 @@
-# ChatX
-ChatX one power
